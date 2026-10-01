@@ -1,0 +1,6 @@
+{
+  "name": "DotFootprint - Bulk Domain Research & TLD Footprint Engine",
+  "description": "High-scale domain footprint research tool: analyze TLD registrations, discover related .COM variants, and verify authoritative RDAP and DNS evidence for up to 5,000 domains.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
